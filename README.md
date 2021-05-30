@@ -1,16 +1,6 @@
 # bmi_calculator
 
-A new Flutter application.
+A flutter help that will help people focus on there fitness in these quarantine days.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src = "https://user-images.githubusercontent.com/55586537/120095186-2b191b00-c142-11eb-904f-a9fae8377231.jpeg" width = "275"> <img src = "https://user-images.githubusercontent.com/55586537/120095187-2ce2de80-c142-11eb-8135-83c95fa58dff.jpeg" width = "275"> <img src = "https://user-images.githubusercontent.com/55586537/120095188-2d7b7500-c142-11eb-91d7-37ec37a01ef0.jpeg" width = "275">
